@@ -1,0 +1,90 @@
+C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/toplevel_DCT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/toplevel_DCT.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity toplevel_DCT
+-- Compiling architecture structural of toplevel_DCT
+-- Loading entity LoadController
+-- Loading entity DCT_8x8_MAC
+
+} {} {}} C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_out.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_out.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vga_out
+-- Compiling architecture arch of vga_out
+
+} {} {}} C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/cosLUT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/cosLUT.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity cosLUT
+-- Compiling architecture rtl of cosLUT
+
+} {} {}} C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/DCT_8x8_MAC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/DCT_8x8_MAC.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DCT_8x8_MAC
+-- Compiling architecture rtl of DCT_8x8_MAC
+-- Loading entity cosLUT
+
+} {} {}} C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_unblocked.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_unblocked.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity simulated_BRAM_unblocked
+-- Compiling architecture rtl of simulated_BRAM_unblocked
+
+} {} {}} C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/tb/tb.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/tb/tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package ENV
+** Warning: C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/tb/tb.vhd(10): (vcom-1516) Package "STD.ENV" does not exist in this language version.
+-- Loading package std_logic_textio
+-- Compiling entity tb
+-- Compiling architecture tb_arch of tb
+-- Loading entity simulated_BRAM_unblocked
+
+} {} {}} C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_blocked.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_blocked.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity simulated_BRAM_blocked
+-- Compiling architecture rtl of simulated_BRAM_blocked
+
+} {} {}} C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_top.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_top.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity vga_top
+-- Compiling architecture Behavioral of vga_top
+
+} {} {}} C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/LoadController.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/LoadController.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.6c Compiler 2017.07 Jul 26 2017
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity LoadController
+-- Compiling architecture rtl of LoadController
+
+} {} {}}

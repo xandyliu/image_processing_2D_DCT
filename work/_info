@@ -1,0 +1,525 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/PapaHenry117/Dropbox/_DSP/midterm_v1
+Ecoslut
+Z0 w1543157193
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing
+Z5 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/cosLUT.vhd
+Z6 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/cosLUT.vhd
+l0
+L14
+V:T>=gGa91e3953:j@EiNR3
+!s100 N?d;G<>CK[@mmzcZ09Bk`3
+Z7 OV;C;10.6c;65
+32
+Z8 !s110 1543425806
+!i10b 1
+Z9 !s108 1543425806.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/cosLUT.vhd|
+Z11 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/cosLUT.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+Z14 DEx4 work 6 coslut 0 22 :T>=gGa91e3953:j@EiNR3
+l41
+L25
+VKB_ke2cmYc_d_d9eaammW3
+!s100 d5L9dfJ:@@i:A8gbOeoYd0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Edct_8x8_mac
+Z15 w1543264078
+R1
+R2
+R3
+R4
+Z16 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/DCT_8x8_MAC.vhd
+Z17 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/DCT_8x8_MAC.vhd
+l0
+L10
+V05X]NAeSLAYj]zQABD@kC1
+!s100 cSe?8@hzek:1zz7@4YcdS2
+R7
+32
+R8
+!i10b 1
+R9
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/DCT_8x8_MAC.vhd|
+Z19 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/DCT_8x8_MAC.vhd|
+!i113 1
+R12
+R13
+Artl
+R14
+R1
+R2
+R3
+Z20 DEx4 work 11 dct_8x8_mac 0 22 05X]NAeSLAYj]zQABD@kC1
+l77
+L29
+VVmE6PE6Q8mR4B^2AVAe]V1
+!s100 Yh23d`ck1^`WJCmH2<@TD2
+R7
+32
+R8
+!i10b 1
+R9
+R18
+R19
+!i113 1
+R12
+R13
+Eloadcontroller
+R0
+R1
+R2
+R3
+R4
+Z21 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/LoadController.vhd
+Z22 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/LoadController.vhd
+l0
+L12
+VE8`RP1Lo588@7bd7P5QEM2
+!s100 BPh?4M9V4bJ<eI<1@Iaml3
+R7
+32
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/LoadController.vhd|
+Z24 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/LoadController.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z25 DEx4 work 14 loadcontroller 0 22 E8`RP1Lo588@7bd7P5QEM2
+l65
+L35
+VnQP4fR@:aQbEaG5UVoGaW2
+!s100 9dQImTDhdeP]e?lcbDd=z2
+R7
+32
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 1
+R12
+R13
+Esimulated_bram_blocked
+Z26 w1543425556
+R1
+R2
+R3
+R4
+Z27 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_blocked.vhd
+Z28 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_blocked.vhd
+l0
+L7
+VEDC7Y^1@=@U>[>@G;EEbU3
+!s100 b;Dl5QZ70l9=9gM;]6_A?2
+R7
+32
+Z29 !s110 1543425807
+!i10b 1
+Z30 !s108 1543425807.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_blocked.vhd|
+Z32 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_blocked.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z33 DEx4 work 22 simulated_bram_blocked 0 22 EDC7Y^1@=@U>[>@G;EEbU3
+Z34 l19231
+L18
+Z35 VF4eERjiWAZQ6DiCN><8_13
+Z36 !s100 lmInT6W?P9VPVnm=FKkW_0
+R7
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R12
+R13
+Esimulated_bram_unblocked
+Z37 w1543425768
+R1
+R2
+R3
+R4
+Z38 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_unblocked.vhd
+Z39 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_unblocked.vhd
+l0
+L7
+VJ;ThdWcoHUBOgYK]a_RcD3
+!s100 lBe^Aa>nH@1X?VlYPWKQM3
+R7
+32
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_unblocked.vhd|
+Z41 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/simulated_BRAM_unblocked.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z42 DEx4 work 24 simulated_bram_unblocked 0 22 J;ThdWcoHUBOgYK]a_RcD3
+R34
+L18
+Vf>>SH0fLFC5C35g8>h?W=1
+!s100 61^N]=_PGcG7j@93`RJc00
+R7
+32
+R29
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Estorecontroller
+Z43 w1542399443
+R1
+R2
+R3
+R4
+Z44 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/src/StoreController.vhd
+Z45 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/src/StoreController.vhd
+l0
+L9
+Vd`D0?7YTf;VzJfD73^2e^3
+!s100 F]961=3_;69h18Q6;n3iF2
+R7
+32
+Z46 !s110 1542556521
+!i10b 1
+Z47 !s108 1542556521.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/src/StoreController.vhd|
+Z49 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/src/StoreController.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 15 storecontroller 0 22 d`D0?7YTf;VzJfD73^2e^3
+l30
+L28
+VDOEY`G[Nb]:ZIDchEDKlJ1
+!s100 b6DlSBFh<hBbgSB@dRkSn1
+R7
+32
+R46
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R12
+R13
+Etb
+Z50 w1543425802
+Z51 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z52 DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+Z53 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R1
+R2
+R3
+R4
+Z54 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/tb/tb.vhd
+Z55 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/tb/tb.vhd
+l0
+L14
+VB`6VbcliWThe`X?YAl9`i1
+!s100 GN@GK:gG]2VE8gYf]hc4H2
+R7
+32
+R29
+!i10b 1
+R30
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/tb/tb.vhd|
+Z57 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/tb/tb.vhd|
+!i113 1
+R12
+R13
+Atb_arch
+R42
+R51
+R52
+R53
+R1
+R2
+R3
+DEx4 work 2 tb 0 22 B`6VbcliWThe`X?YAl9`i1
+l56
+L17
+V14_Fd73gh7k1Nl3<S2Bli0
+!s100 kGc<YV^aPY3@M4e@_ZISY0
+R7
+32
+R29
+!i10b 1
+R30
+R56
+R57
+!i113 1
+R12
+R13
+Etb_dct_mac
+Z58 w1541708134
+R51
+R52
+R53
+R1
+R2
+R3
+R4
+Z59 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/src/tb_DCT_MAC.vhd
+Z60 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/src/tb_DCT_MAC.vhd
+l0
+L15
+Vo^bAEH0OAI9O]Rbb_4o5W0
+!s100 =N7`8UkLHeT9[OXLV20S30
+R7
+32
+Z61 !s110 1542291641
+!i10b 1
+Z62 !s108 1542291641.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/src/tb_DCT_MAC.vhd|
+Z64 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/src/tb_DCT_MAC.vhd|
+!i113 1
+R12
+R13
+Atb_arch
+DEx4 work 11 dct_8x8_mac 0 22 7=F;0eU`;Uc>17:S@UTkT3
+R51
+R52
+R53
+R1
+R2
+R3
+DEx4 work 10 tb_dct_mac 0 22 o^bAEH0OAI9O]Rbb_4o5W0
+l35
+L19
+V5E70JC5]04C2N]J=eU6Nj3
+!s100 >MhVIS>Sa[P8:?izYL2Ub0
+R7
+32
+R61
+!i10b 1
+R62
+R63
+R64
+!i113 1
+R12
+R13
+Etb_load_controller
+Z65 w1542382510
+R51
+R52
+R53
+R1
+R2
+R3
+R4
+Z66 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/tb/tb_Load_Controller.vhd
+Z67 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/tb/tb_Load_Controller.vhd
+l0
+L14
+VIRo@8kgiK0>e5FAC5]fbj2
+!s100 l<4VS`BFWBfgK>U8jMIVX1
+R7
+32
+R46
+!i10b 1
+R47
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/tb/tb_Load_Controller.vhd|
+Z69 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/tb/tb_Load_Controller.vhd|
+!i113 1
+R12
+R13
+Atb_load_controller_arch
+R51
+R52
+R53
+R1
+R2
+R3
+DEx4 work 18 tb_load_controller 0 22 IRo@8kgiK0>e5FAC5]fbj2
+l77
+L17
+VBLb]mVUeL;39O9`7of8kZ3
+!s100 V2CCQaO91b<9Ua]_W[V?f0
+R7
+32
+R46
+!i10b 1
+R47
+R68
+R69
+!i113 1
+R12
+R13
+Etoplevel_dct
+Z70 w1543381296
+R1
+R2
+R3
+R4
+Z71 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/toplevel_DCT.vhd
+Z72 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/toplevel_DCT.vhd
+l0
+L7
+VRcWb:B8WN5@H=QGCTjEzQ0
+!s100 >QHY>DPNZLG^koP@Z4=GH3
+R7
+32
+R29
+!i10b 1
+R30
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/toplevel_DCT.vhd|
+Z74 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/toplevel_DCT.vhd|
+!i113 1
+R12
+R13
+Astructural
+R20
+R25
+R1
+R2
+R3
+DEx4 work 12 toplevel_dct 0 22 RcWb:B8WN5@H=QGCTjEzQ0
+l45
+L22
+V]CKJozA5zZEY_M8iZb9X<2
+!s100 0TA6>M1IJ;EjbnTc9X8z33
+R7
+32
+R29
+!i10b 1
+R30
+R73
+R74
+!i113 1
+R12
+R13
+Evga_out
+R0
+R1
+R2
+R3
+R4
+Z75 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_out.vhd
+Z76 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_out.vhd
+l0
+L20
+VR2BC>4K>k:gjzC:Cz[Hk?3
+!s100 1CmS5@D=6j]>BBgLQocR;2
+R7
+32
+R29
+!i10b 1
+R30
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_out.vhd|
+Z78 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_out.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 7 vga_out 0 22 R2BC>4K>k:gjzC:Cz[Hk?3
+l55
+L49
+VjgeTl^cIO@3349ln]eI?20
+!s100 cZ_NP`3[Pk?eYa3Y=P6=z0
+R7
+32
+R29
+!i10b 1
+R30
+R77
+R78
+!i113 1
+R12
+R13
+Evga_top
+Z79 w1543423998
+R1
+R2
+R3
+R4
+Z80 8C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_top.vhd
+Z81 FC:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_top.vhd
+l0
+L9
+VQazbPUMo8>A>nmJD<zLNO2
+!s100 hdV<H2>4S>S8oLF;bm:6C2
+R7
+32
+R29
+!i10b 1
+R30
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_top.vhd|
+Z83 !s107 C:/Users/PapaHenry117/Desktop/ECE6276-Image_processing/FDR_code/src/vga_top.vhd|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 7 vga_top 0 22 QazbPUMo8>A>nmJD<zLNO2
+l67
+L26
+VBSB210`PK`Gj4EWk=^NJQ3
+!s100 ;llQWQUbnN4mO_D1EzlVV2
+R7
+32
+R29
+!i10b 1
+R30
+R82
+R83
+!i113 1
+R12
+R13

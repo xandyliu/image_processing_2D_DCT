@@ -1,0 +1,2 @@
+DCT Value, DCT Ram Address    
+39985,     0
